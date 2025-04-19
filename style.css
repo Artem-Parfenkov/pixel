@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Monomakh&display=swap');
+
+
+body {
+    font-family: "Monomakh", system-ui;
+    background:#606060;
+    margin: 0px;
+    padding: 0;
+    width: 100vw;
+    min-height: 100vh;
+}
+
+.headd {
+    background:#606060;
+    
+}
+.nedobutton {
+    text-decoration:none;
+    color: crimson;
+    border: 1px solid black;
+    background: black;
+    border-radius: 15px;
+    padding: 0.25em;
+    height: 50%;
+    margin: 15px;
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-height: 10vh;
+}
+.container1 {
+    text-align: center;
+}
+main {
+    background-color: #A0A0A0;
+    min-height: 90vh;
+    padding: 0.75em;
+
+}
+img{
+    margin: 50px;
+}
